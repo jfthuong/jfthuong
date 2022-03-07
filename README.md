@@ -7,7 +7,7 @@ I'm Jeff, Technology enthusiast and passionate about Python, Dev & Testing, AI/M
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-OCaml-informational?style=flat&logo=ocaml&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editors-VSCode-informational?style=flat&logoColor=blue&color=0078d7)
+![](https://img.shields.io/badge/Editors-VSCode-informational?style=flat&logoColor=white&color=0078d7)
 
 ## &#x1f4c8; GitHub Stats
 
